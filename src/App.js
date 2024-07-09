@@ -8,10 +8,10 @@ import ColorBox from 'features/Album/components/colorBox';
 function App() {
   return (
     <div className="app">
-      {/* <TodoFeature /> */}
+      <TodoFeature />
       {/* <AlbumFeature /> */}
-      <Counter />
-      <ColorBox />
+      {/* <Counter />
+      <ColorBox /> */}
     </div>
   );
 }
